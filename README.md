@@ -14,3 +14,5 @@ This is the public repository accepting useful Angular commands shared by users
 | ng g m feature-module | This command generates the a new angular feature module |
 | ng g s my-service | This command generates the a service file |
 | ng g p pipename | This command generates the pipe which used for data formatting |
+| ng g p pipename | This command generates the pipe which used for data formatting |
+| ng build | This command generates the app buid to test |
